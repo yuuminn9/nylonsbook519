@@ -16,7 +16,7 @@
 ```
 
 #### 相關連結
-- 下載雜誌內容原始檔PDF：[nylon's book 519.pdf](/pdf/nylon's book 519.pdf)
+- 下載雜誌內容原始檔PDF：[焚而不燬 台灣魂 台灣建國烈士鄭南榕紀念集](http://www.nylon.org.tw/main/docs/nylon%27s%20book%20519.pdf)
 - [鄭南榕基金會](http://www.nylon.org.tw)
 - [鄭南榕 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/鄭南榕)
 - [Cheng Nan-jung - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Nan-jung)
